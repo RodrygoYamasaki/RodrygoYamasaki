@@ -1,33 +1,33 @@
-<h1 align="center">👋 Seja bem-vindo ao perfil </h1>
+<h2 align="left">Oii eu sou Rodrigo Yamasaki, Futuro Full Stack!</h2>
 
-<p align="center">
-  <a href="https://github.com/GabrielRossi01">
-  </a>
-  </a>
-</p>
+###
 
----
+<p align="left">Cursando ADS na Fiap</p>
 
-### 🛠️ Sobre Mim
+###
 
-Sou um apaixonado por tecnologia e sempre busco inovar e melhorar processos com soluções criativas.
-
-- 📚 **Atualmente cursando:** [Análise e Desenvolvimento de Sistemas - FIAP]
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRossi01&show_icons=true&hide_border=true&theme=tokyonight" alt="GabrielRossi01's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi01&layout=compact&langs_count=7&theme=tokyonight" alt="GabrielRossi01's Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielRossi01&theme=tokyo-night&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true" alt="GabrielRossi01's Activity Graph"/>
-</p>
-
-<div style="display: inline_block; padding:30px"><br>
-  <img align="center" alt="HTML" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrygoYamasaki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrygoYamasaki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RodrygoYamasaki&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-</p>
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
