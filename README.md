@@ -1,8 +1,10 @@
-<h2 align="left">Welcome to my profile! 👋</h2>
+<h1 align="left">Welcome to my profile! 👋</h2>
 
 ###
 
-  Systems Analysis and Development Student
+<p>Sou um apaixonado por tecnologia e desenvolvimento. Desde que entrei nesse mundo, fiquei fascinado pelas infinitas possibilidades de resolver problemas e transformar ideias em soluções concretas. Estou sempre em busca de novos desafios e aprendizados. Gosto de explorar diferentes áreas da tecnologia, como front-end, back-end e até inteligência artificial. A cada nova ferramenta ou linguagem que descubro, vejo uma oportunidade de expandir meu conhecimento e minha capacidade de resolver problemas de maneira mais eficiente.</p>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RodrygoYamasaki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
