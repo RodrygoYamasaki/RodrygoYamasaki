@@ -2,7 +2,15 @@
 
 ###
 
-<p>Sou um apaixonado por tecnologia e desenvolvimento. Desde que entrei nesse mundo, fiquei fascinado pelas infinitas possibilidades de resolver problemas e transformar ideias em soluções concretas. Estou sempre em busca de novos desafios e aprendizados. Gosto de explorar diferentes áreas da tecnologia, como front-end, back-end e até inteligência artificial. A cada nova ferramenta ou linguagem que descubro, vejo uma oportunidade de expandir meu conhecimento e minha capacidade de resolver problemas de maneira mais eficiente.</p>
+<p>I am passionate about technology and development. Since I entered this world, I have been fascinated by the endless possibilities of solving problems and transforming ideas into concrete solutions. I am always seeking new challenges and learning opportunities.</p>
+
+###
+
+<p>I enjoy exploring different areas of technology, such as front-end, back-end, and even artificial intelligence. With each new tool or language I discover, I see an opportunity to expand my knowledge and my ability to solve problems more efficiently.</p>
+
+###
+
+<p>If you share this passion for technology, don't hesitate to connect with me!</p>
 
 ###
 
